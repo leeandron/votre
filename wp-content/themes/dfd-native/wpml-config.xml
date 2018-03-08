@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">gallery</custom-type>
+	</custom-types>
+	
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">portfolio_tags</taxonomy>
+		<taxonomy translate="1">gallery_category</taxonomy>
+		<taxonomy translate="1">gallery_tags</taxonomy>
+	</taxonomies>
+	
+	<admin-texts>
+		<key name="native">
+			<key name="top_adress_field"/>
+			<key name="folio_top_page_title"/>
+			<key name="header_copyright_8"/>
+			<key name="header_copyright_9"/>
+			<key name="header_copyright_12"/>
+			<key name="header_copyright_13"/>
+			<key name="header_copyright_14"/>
+			<key name="copyright_subfooter_1"/>
+			<key name="copyright_subfooter_2"/>
+			<key name="copyright_subfooter_3"/>
+		</key>
+	</admin-texts>
+</wpml-config>

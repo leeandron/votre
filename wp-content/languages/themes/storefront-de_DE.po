@@ -1,0 +1,738 @@
+# Translation of Themes - Storefront in German
+# This file is distributed under the same license as the Themes - Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-26 00:28:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Storefront\n"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Description of the plugin/theme
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "Storefront ist das perfekte Theme für dein nächstes WooCommerce-Projekt. Von WooCommerce Entwicklern entwickelt, bietet es eine umfassende Integration mit unserem marktführenden WooCommerce-Plugin, verschiedene Layout- & Farboptionen, um deinen Shop zu personalisieren, mehrere Widget-Bereiche, ein flexibles Design, welches sich automatisch allen verschiedenen Bildschirmgrößen anpasst und vieles mehr. Entwickler und Entwicklerinnen werden die schmale und erweiterbare Codebasis lieben, mit der Anpassungen und Erweiterungen eine Freude sind. Du suchst ein Theme für WooCommerce? Du hast es gefunden!"
+
+#: inc/storefront-template-functions.php:130
+msgid "Built with Storefront &amp; WooCommerce"
+msgstr "Erstellt mit Storefront &amp; WooCommerce"
+
+#: inc/storefront-template-functions.php:130
+msgid "WooCommerce - The Best eCommerce Platform for WordPress"
+msgstr "WooCommerce - Die Beste eCommerce-Plattform für WordPress"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:125
+msgid "Organize your menus by adding Pages, Categories, Tags, and Custom Links."
+msgstr "Organisiere deine Menüs, indem du Seiten, Kategorien, Tags und individuelle Links hinzufügst."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:124
+msgid "Customize your navigation menus"
+msgstr "Navigationsmenüs anpassen"
+
+#: inc/class-storefront.php:332
+msgid "Post Navigation"
+msgstr "Beitrags-Navigation"
+
+#: comments.php:54
+msgid "Comment Navigation Below"
+msgstr "Kommentar-Navigation unten"
+
+#: comments.php:36
+msgid "Comment Navigation Above"
+msgstr "Kommentar-Navigation oben"
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr "Beitrags-Kommentare"
+
+#: 404.php:39
+msgid "Promoted Products"
+msgstr "Beworbene Produkte"
+
+#: inc/admin/class-storefront-admin.php:221
+#: inc/admin/class-storefront-plugin-install.php:58
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: inc/storefront-template-functions.php:817
+msgid "Best Selling Products"
+msgstr "Bestverkaufte Produkte"
+
+#: inc/storefront-template-functions.php:770
+msgid "On Sale Products"
+msgstr "Produkte im Sonderverkauf"
+
+#: inc/storefront-template-functions.php:301
+msgid "Edit this section"
+msgstr "Bearbeite diesen Abschnitt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:857
+msgid "Vneck Tshirt"
+msgstr "T-Shirt mit V-Ausschnitt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:836
+msgid "Tshirt"
+msgstr "T-Shirt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:815
+msgid "Polo"
+msgstr "Poloshirt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:794
+msgid "Long Sleeve Tee"
+msgstr "Langarm-T-Shirt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:772
+msgid "Hoodie"
+msgstr "Hoodie"
+
+#: inc/nux/class-storefront-nux-starter-content.php:751
+msgid "Hoodie with Zipper"
+msgstr "Hoodie mit Reißverschluss"
+
+#: inc/nux/class-storefront-nux-starter-content.php:729
+msgid "Hoodie with Pocket"
+msgstr "Hoodie mit Tasche"
+
+#: inc/nux/class-storefront-nux-starter-content.php:708
+msgid "Hoodie with Logo"
+msgstr "Hoodie mit Logo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:687
+msgid "Sunglasses"
+msgstr "Sonnenbrillen"
+
+#: inc/nux/class-storefront-nux-starter-content.php:665
+msgid "Cap"
+msgstr "Kappe"
+
+#: inc/nux/class-storefront-nux-starter-content.php:643
+msgid "Belt"
+msgstr "Gürtel"
+
+#: inc/nux/class-storefront-nux-starter-content.php:620
+msgid "Beanie"
+msgstr "Mütze"
+
+#: inc/nux/class-storefront-nux-starter-content.php:614
+msgid "Tshirts"
+msgstr "T-Shirts"
+
+#: inc/nux/class-storefront-nux-starter-content.php:611
+msgid "Hoodies"
+msgstr "Hoodies"
+
+#: inc/nux/class-storefront-nux-starter-content.php:609
+#: inc/nux/class-storefront-nux-starter-content.php:612
+#: inc/nux/class-storefront-nux-starter-content.php:615
+msgid "A short category description"
+msgstr "Kurzbeschreibung der Kategorie"
+
+#: inc/nux/class-storefront-nux-starter-content.php:608
+msgid "Accessories"
+msgstr "Accessoires"
+
+#: inc/nux/class-storefront-nux-starter-content.php:73
+msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
+msgstr "Das ist eine Seite mit Basis Kontakt Informationen, wie Addresse und Telefonnummer. Du könnest auch ein Plugin verwenden, um ein Kontaktformular hinzuzufügen."
+
+#: inc/nux/class-storefront-nux-starter-content.php:72
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:68
+msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
+msgstr "Möglicherweise bist du künstlerisch tätig und möchtest dich und deine Arbeiten hier vorstellen. Oder hast du vielleicht ein Business mit einer Mission, die es zu beschreiben gilt?"
+
+#: inc/nux/class-storefront-nux-starter-content.php:67
+msgid "About"
+msgstr "Über uns"
+
+#: inc/nux/class-storefront-nux-starter-content.php:61
+msgid "This is your homepage which is what most visitors will see when they first visit your shop.%sYou can change this text by editing the \"Welcome\" page via the \"Pages\" menu in your dashboard."
+msgstr "Dies ist die Startseite, die die meisten Besucher sehen werden, wenn sie zum ersten Mal deinen Shop besuchen.%sDu kannst diesen Text ändern, indem du die „Willkommen“-Seite über den Bereich „Seiten“ im Menü des Dashboard editierst."
+
+#: inc/nux/class-storefront-nux-starter-content.php:60
+msgid "Welcome"
+msgstr "Herzlich willkommen"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:145
+msgid "Done"
+msgstr "Fertig"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:143
+msgid "All set! Remember to %ssave & publish%s your changes when you're done.%sYou can return to your dashboard by clicking the X in the top left corner."
+msgstr "Alles bereit! Denke daran, deine %sÄnderungen zu speichern%s, wenn du fertig bist.%sDu kannst zum Dashboard zurückkehren, indem du auf das X in der oberen linken Ecke klickst."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:137
+msgid "Choose colors for your button backgrounds and text. Once again, brand colors are good choices here."
+msgstr "Wähle Farben für deine Button Hintergründe und den Text. Zur Erinnerung, Marken Farben sind hier eine gute Wahl."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:136
+msgid "Color your buttons"
+msgstr "Deine Buttons einfärben"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:131
+msgid "In the typography panel you can specify an accent color which will be applied to things like links and star ratings. We recommend using your brand color for this setting."
+msgstr "Im Typografiebereich kannst du eine Akzent Farbe festlegen, die auf Dinge wie Links und Sternchen-Bewertungen angewendet wird. Wir empfehlen bei dieser Einstellung deine Markenfarbe zu verwenden."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:130
+msgid "Choose your accent color"
+msgstr "Wähle deine Akzent Farbe"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:118
+msgid "Open the Site Identity Panel, then click the 'Select Logo' button to upload your logo."
+msgstr "Öffne den Bereich Website-Informationen, klicke dann auf die Schaltfläche „Logo auswählen“, um dein Logo hochzuladen."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:110
+msgid "Here you can control the overall look and feel of your store.%sTo get started, let's add your logo"
+msgstr "Hier kannst du das allgemeine Erscheinungsbild deines Shops steuern.%sUm loszulegen, fügen wir jetzt dein Logo hinzu"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:109
+msgid "Welcome to the Customizer"
+msgstr "Willkommen beim Customizer"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:91
+msgid "Skip this step"
+msgstr "Überspringe diesen Schritt"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:89
+msgid "No thanks, skip the tour"
+msgstr "Nein danke, überspringe die Tour"
+
+#: inc/nux/class-storefront-nux-admin.php:125
+#: inc/nux/class-storefront-nux-guided-tour.php:111
+msgid "Let's go!"
+msgstr "Los geht's!"
+
+#: inc/nux/class-storefront-nux-admin.php:120
+msgid "Add example products"
+msgstr "Beispiel-Produkte hinzufügen"
+
+#: inc/nux/class-storefront-nux-admin.php:112
+msgid "Create a homepage using Storefront's homepage template"
+msgstr "Erstelle eine Startseite mit Storefront's Startseiten-Template"
+
+#: inc/nux/class-storefront-nux-admin.php:110
+msgid "Apply the Storefront homepage template"
+msgstr "Verwende das Storefront Startseiten-Template"
+
+#: inc/nux/class-storefront-nux-admin.php:90
+msgid "You've set up WooCommerce, now it's time to give it some style! Let's get started by entering the Customizer and adding your logo."
+msgstr "Du hast WooCommerce eingerichtet, jetzt ist es an der Zeit, dem Ganzen etwas Stil zu verleihen! Beginnen wir mit dem Customizer und dem Hinzufügen eines Logos."
+
+#: inc/nux/class-storefront-nux-admin.php:88
+msgid "Before you add your first product let's design your store. We'll add some example products for you. When you're ready let's get started by adding your logo."
+msgstr "Bevor du dein erstes Produkt hinzufügst, lass uns deinen Laden gestalten. Wir werden einige Beispielprodukte für dich hinzufügen. Wenn du bereit bist, fangen wir mit dem Hinzufügen deines Logos an."
+
+#: inc/nux/class-storefront-nux-admin.php:84
+msgid "Design your store 🎨"
+msgstr "Gestalte Deinen Shop 🎨"
+
+#: inc/nux/class-storefront-nux-admin.php:80
+msgid "Activate WooCommerce"
+msgstr "Aktiviere WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:80
+msgid "WooCommerce activated"
+msgstr "WooCommerce aktiviert"
+
+#: inc/nux/class-storefront-nux-admin.php:79
+msgid "To enable eCommerce features you need to install the WooCommerce plugin."
+msgstr "Um die eCommerce Features zu aktivieren, musst du das WooCommerce Plugin installieren."
+
+#: inc/nux/class-storefront-nux-admin.php:78
+msgid "Thanks for installing Storefront, you rock! 🤘"
+msgstr "Danke, dass du Storefront installiert hast, du rockst! 🤘"
+
+#: inc/class-storefront.php:171
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr "Widgets die hier hinzugefügt wurden, erscheinen in Spalte %1$d der %2$d Footer Zeile."
+
+#: inc/class-storefront.php:170
+msgid "Footer Row %1$d - Column %2$d"
+msgstr "Footer Zeile %1$d - Spalte %2$d"
+
+#: inc/class-storefront.php:168
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr "Widgets die hier hinzugefügt wurden, erscheinen in Spalte %1$d des Footers."
+
+#: inc/class-storefront.php:167
+msgid "Footer Column %1$d"
+msgstr "Footer Spalte %1$d"
+
+#: inc/admin/class-storefront-admin.php:250
+#: inc/admin/class-storefront-plugin-install.php:104
+msgid "Learn more"
+msgstr "Lerne mehr"
+
+#: inc/admin/class-storefront-admin.php:243
+#: inc/admin/class-storefront-plugin-install.php:84
+msgid "Install now"
+msgstr "Jetzt installieren"
+
+#: inc/admin/class-storefront-admin.php:184
+msgid "Check 'em out"
+msgstr "Probier's aus"
+
+#: inc/admin/class-storefront-admin.php:180
+msgid "Of course they are all fully compatible with each Storefront extension."
+msgstr "Natürlich sind sie alle voll kompatibel mit jeder Storefront-Erweiterung."
+
+#: inc/admin/class-storefront-admin.php:176
+msgid "Each has been designed to serve a different industry - from fashion to food."
+msgstr "Jedes ist so konzipiert, dass es zu einer anderen Branche passt - von der Mode bis zum Essen."
+
+#: inc/admin/class-storefront-admin.php:172
+msgid "Quickly and easily transform your shops appearance with Storefront child themes."
+msgstr "Verwandle deinen Shop-Auftritt schnell und einfach mit Storefront Child-Themes."
+
+#: inc/admin/class-storefront-admin.php:168
+msgid "Alternate designs"
+msgstr "Abwechslungsreiche Designs"
+
+#: inc/admin/class-storefront-admin.php:164
+msgid "Read more and purchase"
+msgstr "Weiterlesen und kaufen"
+
+#: inc/admin/class-storefront-admin.php:159
+msgid "Make it yours without touching code with the Storefront Extensions bundle. Express yourself, optimize conversions, delight customers."
+msgstr "Mit dem Storefront Erweiterungs Paket kannst du alles ganz einfach deinen Vorstellungen entsprechend machen, ohne Code anfassen zu müssen. Sich ausdrücken, Conversions optimieren, Kunden begeistern."
+
+#: inc/admin/class-storefront-admin.php:155
+msgid "All the tools you'll need to define your style and customize Storefront."
+msgstr "Alle Werkzeuge, die du benötigst, um deinen Stil zu bestimmen und Storefront anzupassen."
+
+#: inc/admin/class-storefront-admin.php:149
+msgid "Storefront Extensions Bundle"
+msgstr "Storefront Erweiterungen im Paket"
+
+#: inc/admin/class-storefront-admin.php:137
+msgid "Increase conversions by adding a sticky add-to-cart button to all your product pages so that folks can always add to cart, regardless of how far they scroll down the page."
+msgstr "Erhöhe die Conversions durch Hinzufügen eines angehefteten „Dem Warenkorb hinzufügen“ Buttons zu all deinen Produktseiten, so dass die Leute immer etwas in den Warenkorb legen können, unabhängig davon, wie weit sie die Seite nach unten scrollen."
+
+#: inc/admin/class-storefront-admin.php:135
+msgid "Sticky add to cart"
+msgstr "„Dem Warenkorb hinzufügen“ anheften"
+
+#: inc/admin/class-storefront-admin.php:124
+msgid "Enable your visitors to market your products on your behalf! Add social icons to your product pages allowing guests to share your products on their favorite social networks."
+msgstr "Ermögliche deinen Besuchern, deine Produkte in deinem Namen zu vermarkten! Füge Social Icons zu deinen Produktseiten hinzu, damit Gäste deine Produkte in ihren bevorzugten sozialen Netzwerken mit anderen teilen können."
+
+#: inc/admin/class-storefront-admin.php:122
+msgid "Product Sharing"
+msgstr "Produkte teilen"
+
+#: inc/admin/class-storefront-admin.php:110
+msgid "Clicking the tab will reveal the cart contents in a sidebar that overlays the main site content from which visitors can conveniently edit their cart or checkout."
+msgstr "Wenn man auf den Tab klickt, wird der Inhalt des Warenkorbs in einer Seitenleiste angezeigt, die den Inhalt der Hauptseite überlagert, von der aus die Besucher bequem ihren Warenkorb oder ihre Kasse bearbeiten können."
+
+#: inc/admin/class-storefront-admin.php:106
+msgid "Provide a more streamlined checkout experience. Cart Tab adds a fixed cart icon that displays the number of products in the cart to all pages of your site."
+msgstr "Biete ein optimiertes Kauferlebnis. Die Registerkarte Warenkorb fügt ein festes Warenkorb-Symbol hinzu, das die Anzahl der Produkte im Warenkorb auf allen Seiten der Website anzeigt."
+
+#: inc/admin/class-storefront-admin.php:104
+msgid "Cart Tab"
+msgstr "Warenkorb-Tab"
+
+#: inc/admin/class-storefront-admin.php:101
+msgid "Install-and-go enhancements"
+msgstr "Install-and-Go-Erweiterungen"
+
+#: inc/admin/class-storefront-admin.php:94
+msgid "Hello! You might be interested in the following Storefront extensions and designs."
+msgstr "Hallo! Die folgenden Storefront-Erweiterungen und -Designs könnten Dich interessieren."
+
+#: inc/admin/class-storefront-admin.php:92
+msgid "One more thing... You might be interested in the following Storefront extensions and designs."
+msgstr "Eine Sache noch... Du könntest an folgenden Storefront-Erweiterungen und -Designs interessiert sein."
+
+#: inc/admin/class-storefront-admin.php:91
+msgid "Setup complete %sYour Storefront adventure begins now 🚀%s "
+msgstr "Einrichtung abgeschlossen %sDein Storefront Abenteuer startet jetzt 🚀%s"
+
+#: inc/admin/class-storefront-admin.php:75
+msgid "Development blog"
+msgstr "Entwickler Blog"
+
+#: inc/admin/class-storefront-admin.php:74
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/admin/class-storefront-admin.php:73
+msgid "Support"
+msgstr "Support"
+
+#: inc/class-storefront.php:155
+msgid "Widgets added to this region will appear beneath the header and above the main content."
+msgstr "Widgets die in diesem Bereich hinzugefügt werden, erscheinen unter dem Header und über dem Hauptinhalt."
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:371
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:344
+msgid "Search"
+msgstr "Suche"
+
+#: inc/storefront-template-functions.php:804
+msgid "Best Sellers"
+msgstr "Bestseller"
+
+#: inc/storefront-template-functions.php:709
+msgid "Fan Favorites"
+msgstr "Fan-Favoriten"
+
+#: inc/storefront-template-functions.php:659
+msgid "We Recommend"
+msgstr "Wir empfehlen"
+
+#: inc/storefront-template-functions.php:609
+msgid "New In"
+msgstr "Neu verfügbar"
+
+#: inc/storefront-template-functions.php:559
+msgid "Shop by Category"
+msgstr "Einkaufen nach Kategorie"
+
+#: inc/storefront-template-functions.php:463
+msgid "Comments"
+msgstr "Kommentare"
+
+#: inc/storefront-template-functions.php:453
+msgid "Tagged"
+msgstr "Verschlagwortet"
+
+#: inc/storefront-template-functions.php:440
+msgid "Posted in"
+msgstr "Veröffentlicht in"
+
+#: inc/storefront-template-functions.php:429
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: inc/storefront-template-functions.php:233
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/class-storefront.php:153
+msgid "Below Header"
+msgstr "Unter dem Header"
+
+#: inc/customizer/class-storefront-customizer-control-more.php:31
+msgid "Enjoying %s?"
+msgstr "Gefällt dir %s?"
+
+#: inc/admin/class-storefront-admin.php:191
+msgid "An %s project"
+msgstr "Ein %s Projekt"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:269
+msgid "On Sale Now"
+msgstr "Jetzt im Angebot"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:277
+msgid "New In Store"
+msgstr "Neu im Shop"
+
+#: inc/customizer/class-storefront-customizer.php:234
+msgid "Header background image"
+msgstr "Header-Hintergrundbild"
+
+#: inc/storefront-template-functions.php:481
+msgctxt "Next post"
+msgid "Next"
+msgstr "Nächster"
+
+#: inc/storefront-template-functions.php:482
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Zurück"
+
+#: 404.php:57 404.php:59 inc/storefront-template-functions.php:722
+msgid "Popular Products"
+msgstr "Beliebte Produkte"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "An dieser Stelle wurde nichts gefunden. Versuche es mit einer Suche, oder probiere unten stehende Links."
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Startseite"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Gesamte Breite"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:75
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d Artikel"
+msgstr[1] "%d Artikel"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/storefront-template-functions.php:622
+msgid "Recent Products"
+msgstr "Neueste Produkte"
+
+#: 404.php:45 404.php:47 inc/storefront-template-functions.php:574
+msgid "Product Categories"
+msgstr "Produkt-Kategorien"
+
+#: inc/storefront-template-functions.php:674
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:261
+msgid "Featured Products"
+msgstr "Hervorgehobene Produkte"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:74
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:357
+msgid "View your shopping cart"
+msgstr "Deinen Warenkorb ansehen"
+
+#: inc/storefront-template-functions.php:757
+msgid "On Sale"
+msgstr "Angebot"
+
+#: inc/storefront-template-functions.php:520
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Veröffentlicht am %s"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:83
+msgid "Next"
+msgstr "Nächster Schritt"
+
+#: inc/storefront-template-functions.php:464
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/storefront-template-functions.php:464
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/storefront-template-functions.php:464
+msgid "Leave a comment"
+msgstr "Schreib einen Kommentar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:435
+#: inc/storefront-template-functions.php:448
+msgid ", "
+msgstr ", "
+
+#: inc/storefront-template-functions.php:397
+msgid "Continue reading %s"
+msgstr "%s weiterlesen"
+
+#: inc/storefront-template-functions.php:342
+#: inc/storefront-template-functions.php:405
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/storefront-template-functions.php:288
+msgid "Skip to navigation"
+msgstr "Zur Navigation springen"
+
+#: inc/storefront-template-functions.php:264
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: inc/storefront-template-functions.php:289
+msgid "Skip to content"
+msgstr "Springe zum Inhalt"
+
+#: inc/storefront-template-functions.php:232
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: inc/storefront-template-functions.php:64
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: inc/class-storefront.php:85
+#: inc/nux/class-storefront-nux-starter-content.php:188
+msgid "Handheld Menu"
+msgstr "Handheld-Menü"
+
+#: inc/class-storefront.php:147
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: inc/class-storefront.php:84
+#: inc/nux/class-storefront-nux-starter-content.php:178
+msgid "Secondary Menu"
+msgstr "Sekundär-Menü"
+
+#: inc/customizer/class-storefront-customizer.php:460
+msgid "Looking for more options?"
+msgstr "Suchst du weitere Optionen?"
+
+#: inc/class-storefront.php:83
+#: inc/nux/class-storefront-nux-starter-content.php:158
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: inc/customizer/class-storefront-customizer.php:437
+msgid "General Layout"
+msgstr "Allgemeines Layout"
+
+#: inc/customizer/class-storefront-customizer.php:450
+msgid "More"
+msgstr "Mehr"
+
+#: inc/customizer/class-storefront-customizer.php:289
+msgid "Customize the look & feel of your website footer."
+msgstr "Bearbeite das Aussehen deines Website-Footers."
+
+#: inc/customizer/class-storefront-customizer.php:358
+msgid "Customize the look & feel of your website buttons."
+msgstr "Bearbeite das Aussehen deiner Website-Buttons."
+
+#: inc/customizer/class-storefront-customizer.php:356
+msgid "Buttons"
+msgstr "Buttons"
+
+#: inc/customizer/class-storefront-customizer.php:415
+msgid "Alternate button text color"
+msgstr "Button-Textfarbe wechseln"
+
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Alternate button background color"
+msgstr "Button-Hintergrundfarbe wechseln"
+
+#: inc/customizer/class-storefront-customizer.php:425
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/class-storefront-customizer.php:287
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/class-storefront-customizer.php:277
+#: inc/customizer/class-storefront-customizer.php:346
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: inc/customizer/class-storefront-customizer.php:247
+#: inc/customizer/class-storefront-customizer.php:301
+#: inc/customizer/class-storefront-customizer.php:370
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: inc/customizer/class-storefront-customizer.php:195
+#: inc/customizer/class-storefront-customizer.php:316
+msgid "Heading color"
+msgstr "&Uuml;berschriftsfarbe"
+
+#: inc/customizer/class-storefront-customizer.php:225
+msgid "Link / accent color"
+msgstr "Link/Akzentfarbe"
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:262
+#: inc/customizer/class-storefront-customizer.php:331
+#: inc/customizer/class-storefront-customizer.php:385
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: inc/customizer/class-storefront-customizer.php:182
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/customizer/class-storefront-customizer.php:144
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/class-storefront-customizer-control-more.php:28
+msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr "Es gibt eine Reihe von %s-Erweiterungen, die dir zusätzliche Möglichkeiten in die Hände geben. Wirf einen Blick auf die %s%s%s-Seite auf deinem Dashboard, dort findest du weitere Informationen."
+
+#: inc/customizer/class-storefront-customizer-control-more.php:34
+msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "Warum nicht eine Bewertung auf %sWordPress.org%s abgeben? Wir würden uns freuen!"
+
+#: inc/customizer/class-storefront-customizer.php:140
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/nux/class-storefront-nux-admin.php:80
+msgid "Install WooCommerce"
+msgstr "WooCommerce installieren"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:117
+msgid "Add your logo"
+msgstr "Dein Logo hinzufügen"
+
+#: inc/admin/class-storefront-admin.php:230
+#: inc/admin/class-storefront-plugin-install.php:69
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft die Suchfunktion."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. Bitte versuche es mit anderen Stichworten nochmal."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, um deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu „%2$s“"
+msgstr[1] "%1$s Gedanken zu „%2$s“"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Die Seite konnte nicht gefunden werden."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://woocommerce.com/storefront"
+msgstr "https://woocommerce.com/storefront"

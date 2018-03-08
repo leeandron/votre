@@ -1,0 +1,2 @@
+02-13-2018 @ 10:01:56 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 2. (calculate_shipping)
+02-13-2018 @ 10:01:56 - product_missing_weight Product ( ID: 24020 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)

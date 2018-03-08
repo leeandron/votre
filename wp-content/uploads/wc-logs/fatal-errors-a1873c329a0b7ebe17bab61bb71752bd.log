@@ -1,0 +1,14 @@
+2018-01-17T16:21:03+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T16:21:03+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T16:21:13+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T16:21:14+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T16:21:15+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T17:05:07+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
+2018-01-17T17:42:54+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-importer/wordpress-importer.php:1209)
+
